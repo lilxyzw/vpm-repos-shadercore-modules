@@ -1,0 +1,48 @@
+﻿{
+  "name": "lilxyzw-shadercore-modules",
+  "id": "io.github.lilxyzw.vpm-shadercore-modules",
+  "author": "lilxyzw",
+  "url": "https://lilxyzw.github.io/vpm-repos-shadercore-modules/vpm.json",
+  "packages": {
+    "jp.lilxyzw.vrchatmodule": {
+      "versions": {
+        "1.1.0": {
+          "name": "jp.lilxyzw.vrchatmodule",
+          "version": "1.1.0",
+          "displayName": "VRChatModule",
+          "description": "",
+          "hideInEditor": false,
+          "repo": "https://lilxyzw.github.io/vpm-repos-shadercore-modules/vpm.json",
+          "vpmDependencies": {
+            "com.vrchat.base": "^3.10.4"
+          },
+          "legacyFolders": {
+            "Assets\\Shaders\\Modules\\VRChatModule": "056404c4a43ca1d408488711d76fc107"
+          },
+          "url": "https://github.com/lilxyzw/VRChatModule/releases/download/1.1.0/jp.lilxyzw.vrchatmodule-1.1.0.zip?",
+          "zipSHA256": "60e3fd6b74211fde388da1651bab6f8ab5529cb886cbc2c62e3eb6ee24018031"
+        }
+      }
+    },
+    "jp.lilxyzw.vrclvmodule": {
+      "versions": {
+        "1.1.0": {
+          "name": "jp.lilxyzw.vrclvmodule",
+          "version": "1.1.0",
+          "displayName": "VRCLVModule",
+          "description": "",
+          "hideInEditor": false,
+          "repo": "https://lilxyzw.github.io/vpm-repos-shadercore-modules/vpm.json",
+          "vpmDependencies": {
+            "red.sim.lightvolumes": "^2.1.3"
+          },
+          "legacyFolders": {
+            "Assets\\Shaders\\Modules\\VRCLVModule": "f7f8a9ef876afd44dac38e11bd2c30e1"
+          },
+          "url": "https://github.com/lilxyzw/VRCLVModule/releases/download/1.1.0/jp.lilxyzw.vrclvmodule-1.1.0.zip?",
+          "zipSHA256": "34d2c8eb9a532c0dcbffc4c4ae7803fa9b29d3162b985de3c59a4d12543fa0a6"
+        }
+      }
+    }
+  }
+}
