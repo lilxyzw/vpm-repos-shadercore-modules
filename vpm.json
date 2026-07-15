@@ -4,6 +4,23 @@
   "author": "lilxyzw",
   "url": "https://lilxyzw.github.io/vpm-repos-shadercore-modules/vpm.json",
   "packages": {
+    "jp.lilxyzw.ltcgimodule": {
+      "versions": {
+        "1.0.0": {
+          "name": "jp.lilxyzw.ltcgimodule",
+          "version": "1.0.0",
+          "displayName": "LTCGIModule",
+          "description": "",
+          "hideInEditor": false,
+          "repo": "https://lilxyzw.github.io/vpm-repos-shadercore-modules/vpm.json",
+          "vpmDependencies": {
+            "at.pimaker.ltcgi": "^1.7.1"
+          },
+          "url": "https://github.com/lilxyzw/LTCGIModule/releases/download/1.0.0/jp.lilxyzw.ltcgimodule-1.0.0.zip?",
+          "zipSHA256": "a5e6a99c07f50aeee209f29153c3f1c200d58c4162ddf7e1893adc511465dc06"
+        }
+      }
+    },
     "jp.lilxyzw.vrchatmodule": {
       "versions": {
         "1.1.0": {
