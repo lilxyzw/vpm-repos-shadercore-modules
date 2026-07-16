@@ -4,6 +4,23 @@
   "author": "lilxyzw",
   "url": "https://lilxyzw.github.io/vpm-repos-shadercore-modules/vpm.json",
   "packages": {
+    "jp.lilxyzw.avatarlightmodifier": {
+      "versions": {
+        "1.0.0": {
+          "name": "jp.lilxyzw.avatarlightmodifier",
+          "version": "1.0.0",
+          "displayName": "AvatarLightModifier",
+          "description": "",
+          "hideInEditor": false,
+          "repo": "https://lilxyzw.github.io/vpm-repos-shadercore-modules/vpm.json",
+          "vpmDependencies": {
+            "nadena.dev.modular-avatar": "^1.17.1"
+          },
+          "url": "https://github.com/lilxyzw/AvatarLightModifier/releases/download/1.0.0/jp.lilxyzw.avatarlightmodifier-1.0.0.zip?",
+          "zipSHA256": "3c9deff73f3a5f76153bedf0902f6c67666bf791b4efc8bdb14fa4d8762aa0e3"
+        }
+      }
+    },
     "jp.lilxyzw.ltcgimodule": {
       "versions": {
         "1.0.0": {
