@@ -23,6 +23,19 @@
     },
     "jp.lilxyzw.ltcgimodule": {
       "versions": {
+        "1.0.1": {
+          "name": "jp.lilxyzw.ltcgimodule",
+          "version": "1.0.1",
+          "displayName": "LTCGIModule",
+          "description": "",
+          "hideInEditor": false,
+          "repo": "https://lilxyzw.github.io/vpm-repos-shadercore-modules/vpm.json",
+          "vpmDependencies": {
+            "at.pimaker.ltcgi": "^1.7.1"
+          },
+          "url": "https://github.com/lilxyzw/LTCGIModule/releases/download/1.0.1/jp.lilxyzw.ltcgimodule-1.0.1.zip?",
+          "zipSHA256": "4395fd57a2dc0b2e283afa9b6decaad737f8f45ed0656a1d8c55e9f5c33af55b"
+        },
         "1.0.0": {
           "name": "jp.lilxyzw.ltcgimodule",
           "version": "1.0.0",
